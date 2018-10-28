@@ -14,6 +14,8 @@ import {MatButtonModule, MatCheckboxModule} from '@angular/material';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatSliderModule} from '@angular/material/slider';
 import {MatCardModule} from '@angular/material/card';
+import {MatProgressBarModule} from '@angular/material/progress-bar';
+
 
 @NgModule({
   imports: [
@@ -27,7 +29,8 @@ import {MatCardModule} from '@angular/material/card';
     MatCheckboxModule,
     MatToolbarModule,
     MatSliderModule,
-    MatCardModule
+    MatCardModule,
+    MatProgressBarModule
   ],
   declarations: [ AppComponent ],
   bootstrap: [ AppComponent ]
