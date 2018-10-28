@@ -1,6 +1,6 @@
 # LaMBarS(Lab Mini-Bar System)
 
-[![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
+[![LaMBarS](http://img.youtube.com/vi/AQcQSCQUERI/hqdefault.jpg)](https://www.youtube.com/watch?v=AQcQSCQUERI&amp=&feature=youtu.be)
 
 ## 製品概要
 ### Mini Bar Tech
